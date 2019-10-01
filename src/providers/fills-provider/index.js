@@ -1,0 +1,1 @@
+export {withFills} from './with-fills.hoc';
